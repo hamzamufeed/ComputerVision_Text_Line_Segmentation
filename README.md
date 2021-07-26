@@ -7,3 +7,5 @@ from the scan documents, which are Arabic hand-written documents.
 
 
 #No Editing just trying to understand 
+
+#second editing 
